@@ -1,0 +1,26 @@
+{
+  "name": "nw-examples",
+  "version": "1.0.0",
+  "description": "NW.js examples",
+  "main": "index.js",
+  "scripts": {
+    "ex1_html": "nw example_1_hello_world_html",
+    "ex1_js": "nw example_1_hello_world_js",
+    "ex2": "nw example_2_nw_apis",
+    "ex3": "nw example_3_node_apis",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxd3vin/nw-examples.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxd3vin/nw-examples/issues"
+  },
+  "homepage": "https://github.com/xxd3vin/nw-examples#readme",
+  "dependencies": {
+    "nw": "^0.33.3"
+  }
+}
